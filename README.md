@@ -2,6 +2,7 @@ Procedural Islamic Dome and Patterns with Blender 3D and Geometry Nodes
 =================
 
 The repo contains some nodes for generating the Islamic dome you see here. The geometry is fully procedural and generated in Geometry Nodes. The textures are also fully procedural (except the caligraphy) and is generated in the material nodes.
+
 ![](marketingMat/MainGif.gif)
 
 To view the model, visit here: (link comming soon)
